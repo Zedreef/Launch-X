@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+    min-height: 400px;
+    background-color: rgb(104, 112, 112);
+    display: flex;
+    justify-content: space-around; /*Parte Horizontal Fila*/
+    align-items: center; /*Parte Vertical Fila*/
+    flex-wrap: wrap; /*Para que se compriman si se hace mas pequeño como celular/pantalla pc*/
+}
+
+.elemento{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border-color: azure;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px /*Distancia entre la caja y el contenido*/
+}
