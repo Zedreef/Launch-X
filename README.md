@@ -1,5 +1,3 @@
-### Características
-- Se agregan los trabajos hechos en HTML
 
 # Launch-X
 
@@ -13,14 +11,14 @@ Se encontrara proyectos en HTML, CSS, JavaScript y Vue.
 ## Organización de MISIÓN FRONTEND
 
 
-+ Practicas
++ [Practicas]()
 + [HTML](https://github.com/Zedreef/Launch-X/tree/master/HTML)
 	+ Etiquetas Básicas
 	+ Elementos Compuestos
 	+ Layout y Rutas
 	+ Practica Puesto de Tacos
-+ CSS
-+ JavaScript
-+ Vue JS
-+ VUEX
-+ Azure
++ [CSS](https://github.com/Zedreef/Launch-X/tree/master/CSS)
++ [JavaScript]()
++ [Vue JS]()
++ [VUEX]()
++ [Azure]()
