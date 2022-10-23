@@ -1,5 +1,3 @@
-### Características
-- Se agregan los trabajos hechos en HTML
 
 # Launch-X
 
