@@ -11,7 +11,7 @@ Se encontrara proyectos en HTML, CSS, JavaScript y Vue.
 ## Organización de MISIÓN FRONTEND
 
 
-+ Practicas
++ [Practicas]()
 + [HTML](https://github.com/Zedreef/Launch-X/tree/master/HTML)
 	+ Etiquetas Básicas
 	+ Elementos Compuestos
