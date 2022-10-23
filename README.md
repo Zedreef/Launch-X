@@ -18,6 +18,11 @@ Se encontrara proyectos en HTML, CSS, JavaScript y Vue.
 	+ Layout y Rutas
 	+ Practica Puesto de Tacos
 + [CSS](https://github.com/Zedreef/Launch-X/tree/master/CSS)
+	+ Selectores
+	+ Colores
+	+ Fondos
+	+ Textos
+	+ Flexbox
 + [JavaScript]()
 + [Vue JS]()
 + [VUEX]()
