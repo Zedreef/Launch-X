@@ -1,7 +1,8 @@
 
 # Launch-X
 
-![](https://avatars.githubusercontent.com/u/110853422?s=200&v=4)
+<img src="./Imagenes/110853422.png"  width="300" height="300">
+
 
 ## Bienvenidos
 
@@ -12,18 +13,22 @@ Se encontrara proyectos en HTML, CSS, JavaScript y Vue.
 
 
 + [Practicas]()
-+ [HTML](https://github.com/Zedreef/Launch-X/tree/master/HTML)
-	+ Etiquetas Básicas
-	+ Elementos Compuestos
-	+ Layout y Rutas
-	+ Practica Puesto de Tacos
-+ [CSS](https://github.com/Zedreef/Launch-X/tree/master/CSS)
-	+ Selectores
-	+ Colores
-	+ Fondos
-	+ Textos
-	+ Flexbox
-+ [JavaScript]()
++ [HTML](https://github.com/Zedreef/Launch-X/tree/master/HTML "HTML")
+	+ _Etiquetas Básicas_
+	+ _Elementos Compuestos_
+	+ _Layout y Rutas_
+	+ _Practica Puesto de Tacos_
++ [CSS](https://github.com/Zedreef/Launch-X/tree/master/CSS "CSS")
+	+ _Selectores_
+	+ _Colores_
+	+ _Fondos_
+	+ _Textos_
+	+ _Flexbox_
++ [JavaScript](https://github.com/Zedreef/Launch-X/tree/master/JavaScript "JavaScript")
+	+ _Introducción a Programación con JavaScript_
+	+ _Funciones y Excepciones_
+	+ _JavaScript en el navegador (DOM)_
+	+ _Pokedex_
 + [Vue JS]()
 + [VUEX]()
 + [Azure]()
