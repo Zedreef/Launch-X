@@ -1,8 +1,7 @@
 
 # Launch-X
 
-<img src="./Imagenes/110853422.png"  width="300" height="300">
-
+![Launch-X](./Imagenes/GtbZqdaY_4x.jpg)
 
 ## Bienvenidos
 
