@@ -32,7 +32,7 @@ function mOut(obj) {
 
 function mDown(obj) {
   obj.style.backgroundColor = "#1ec5e5";
-  obj.innerHTML = "sueltame";
+  obj.innerHTML = "suéltame";
 }
 
 function mUp(obj) {
